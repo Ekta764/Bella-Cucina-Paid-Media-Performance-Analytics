@@ -1,0 +1,39 @@
+**Bella Cucina — Paid Media Performance Analytics**
+Tool: Advanced Microsoft Excel
+Period: Q1 2026 (January – March)
+
+**Overview**
+End-to-end paid media analytics project consolidating ad performance data from TikTok, Google Ads, Facebook, and Instagram into a single Excel workbook. 
+The analysis covers campaign measurement, platform comparison, funnel analysis, and weekly trend tracking — structured as a real client deliverable.
+
+**Business Questions Answered**
+Which platform delivered the best return on ad spend?
+Which campaign was most cost-efficient and should be repeated?
+Where should budget be reallocated next quarter?
+
+**Workbook Structure**
+12-tab Excel workbook covering the full analytics workflow:
+Raw Data — separate tabs for each platform (TikTok, Google Ads, Facebook, Instagram)
+Combined Data — all 4 platforms unified into one table (2,437 rows)
+Platform Summary — KPIs, pivot table, and charts by platform
+Campaign Analysis — performance breakdown by campaign
+Monthly Trends — January vs February vs March comparison
+Funnel Analysis — Impression → Click → Conversion by platform
+Trend Analysis — weekly performance heatmap + seasonal cohort comparison
+Platform KPIs — dynamic XLOOKUP tool with dropdown selector
+Client Dashboard — one-page executive summary
+
+**Advanced Excel Features**
+
+Pivot Tables
+XLOOKUP with dropdown data validation
+Calculated KPIs — CTR%, CPC, CPA, Conv Rate%, CPM
+Conditional Formatting heatmaps
+Combo Charts (bar + line)
+Funnel visualization using shapes
+Power Query for data consolidation
+Named Tables for dynamic references
+
+**Skills Demonstrated**
+Advanced Excel,Pivot Tables, XLOOKUP, Power Query, Paid Media Analytics,Campaign Measurement, Multi-Platform Reporting, Data Visualization, 
+Funnel Analysis Client Reporting
